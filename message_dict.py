@@ -2,7 +2,7 @@ import csv
 import emoji
 
 # https://www.mindk.com/blog/how-to-develop-a-chat-bot/
-API_KEY = '5031857976:AAEdpyxe46sxSSEL0TKpc_4jjdXnK2ffMVU'
+API_KEY = 'telegram token from gotfather bot'
 time_zone = 'Asia/Tel_Aviv'
 
 start_message = emoji.emojize('Hello and welcome to the Israel\'s rent apartment bot \U0001F1EE\U0001F1F1\U0001F1EE\U0001F1F1\U0001F1EE\U0001F1F1  \n' \
