@@ -4,6 +4,7 @@ import pytz
 import message_dict as md
 
 print('This bot is running...')
+print('Hello world')
 
 bot = telebot.TeleBot(md.API_KEY, parse_mode=None)
 date_in_telaviv = datetime.now(tz=pytz.timezone(md.time_zone))
